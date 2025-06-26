@@ -1,0 +1,6 @@
+venv/
+data/
+.env*
+photos/
+resources/
+logs/
